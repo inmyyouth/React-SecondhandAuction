@@ -21,7 +21,7 @@ Tools and Services:
     MySQL - Relational database management system for user and product management
 
 Dev Journey:
-    This was my first time using React and Node.js. It was a challenging experience, but after implementing the features, everything looks fascinating. I didn’t have a clear understanding of backend server processes before, but now I have a better grasp of how websites work.☺️
+    This was my first time using React and Node.js. It was a challenging experience, but after implementing the features, everything looks fascinating. I didn’t have a clear understanding of backend server processes before, but now I have a better grasp of how websites work.
 
 Demo Video:
     https://youtu.be/AKwD3ltsrk4               
