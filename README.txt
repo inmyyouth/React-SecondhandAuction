@@ -6,7 +6,7 @@
  |_____/|______\_____\____/|_| \_|_____/|_|  |_/_/    \_\_| \_|_____/_/    \_\____/ \_____|  |_|  |_____\____/|_| \_|
 # A secondhand trading platform (web) with options for auction and price negotiation(2024)                                                                                                       
                                                                                                                        
-Team Project(2024):
+Team Project (4 members)(2024):
     My contributions - Backend, Frontend(excluding design)
     Development of APIs and interactive pages for product registration, product listing, and detail pages, product auction system, and user chat system
 
