@@ -4,7 +4,7 @@
   \___ \|  __|| |   | |  | | . ` | |  | |  __  | / /\ \ | . ` | |  | |/ /\ \| |  | | |       | |    | || |  | | . ` |
   ____) | |___| |___| |__| | |\  | |__| | |  | |/ ____ \| |\  | |__| / ____ \ |__| | |____   | |   _| || |__| | |\  |
  |_____/|______\_____\____/|_| \_|_____/|_|  |_/_/    \_\_| \_|_____/_/    \_\____/ \_____|  |_|  |_____\____/|_| \_|
-# A secondhand trading platform (web) with options for auction and price negotiation                                                                                                       
+# A secondhand trading platform (web) with options for auction and price negotiation(2024)                                                                                                       
                                                                                                                        
 Team Project(2024):
     My contributions - Backend, Frontend(excluding design)
